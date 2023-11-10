@@ -148,7 +148,7 @@ print("qtd notas:", len(notas))
 
  '''
 import os  # Import os for the os.system('cls') function
-
+#
 # Código para limpar a tela
 mensagens = []
 nome = input("Nome:")
