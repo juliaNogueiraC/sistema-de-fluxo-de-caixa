@@ -1,0 +1,3 @@
+gcc
+make
+libsqlite3-dev
